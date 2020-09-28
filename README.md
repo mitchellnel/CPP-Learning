@@ -1,2 +1,2 @@
-# cpp-learning
+# CPP-Learning
 ## mitchellnel repo for learning C++
