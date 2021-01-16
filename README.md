@@ -12,6 +12,8 @@ This program takes in various information about a "defendant's" circumstances to
 Improvements:
 * getline() should've been used instead of just cin >> for the fake athlete check; currently, if a user inputs a string, the first letter is kept and the remaining letters are truncated, and this is not the correct behaviour: inputting a string for this check should be invalid
 
+I have also made a Python 3.7 version of this program to help me learn Python.
+
 ## Functions (Plot)
 (grid.h and grid.cpp were externally provided)
 Concepts:
@@ -23,6 +25,8 @@ This program takes a "command string" from the user that has a variety of plotti
 
 Improvements:
 * Although I've divided portions of the programme up into functions, there is a large amount of code duplication; I should be able to cut this down by functionalising more into things like checking for numbers after a line plotting command etc.
+
+I have also made a (WIP) Python 3.7 version of this program to help me learn Python. In addition, this version of the project has better coding practice (i.e. working on the improvement mentioned above).
 
 ## Recursion (linear, maze, tree)
 Concepts:
